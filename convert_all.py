@@ -11,9 +11,19 @@ def launch_geta():
     si = subprocess.STARTUPINFO()
     si.dwFlags = subprocess.STARTF_USESHOWWINDOW
     si.wShowWindow = 3  # SW_MAXIMIZE
-    proc = subprocess.Popen('java -jar GeTa\\Tool\\TaggingToolVer5_6March2019.jar',
+    proc = subprocess.Popen('java -jar GeTa\\Tool\\TaggingToolVer6_16October19.jar',
                             startupinfo=si)
     time.sleep(3)
+    return proc
+
+
+def launch_pepper():
+    si = subprocess.STARTUPINFO()
+    si.dwFlags = subprocess.STARTF_USESHOWWINDOW
+    si.wShowWindow = 3  # SW_MAXIMIZE
+    proc = subprocess.Popen('..\\pepper-grinder\\pepper-grinder.exe',
+                            startupinfo=si)
+    time.sleep(2)
     return proc
 
 
@@ -41,7 +51,6 @@ def geta2tei(dirname):
             if not fname.lower().endswith('.json'):
                 continue
             fnameFull = os.path.abspath(os.path.join(root, fname))
-            # Assuming GeTa is already running
             print('Opening ' + fnameFull + ' in GeTa...')
             proc = launch_geta()
             pyautogui.hotkey('ctrl', 'a')
@@ -63,6 +72,46 @@ def geta2tei(dirname):
         print(textDir)
 
 
+def geta2annis(dirname):
+    """
+    Open all GeTa files in Pepper Grinder and transform them into ANNIS format.
+    """
+    textDirs = []
+    for root, dirs, files in os.walk(dirname):
+        noJson = True
+        for fname in files:
+            if not fname.lower().endswith('.json'):
+                continue
+            noJson = False
+            break
+        if noJson:
+            continue
+        dirnameFull = os.path.abspath(root)
+        print('Opening ' + dirnameFull + ' in Pepper Grinder...')
+        proc = launch_pepper()
+        pyautogui.click(40, 131)
+        time.sleep(1)
+        pyautogui.click(40, 131)
+        for i in range(3):
+            pyautogui.press('tab')
+            time.sleep(0.2)
+        time.sleep(2)
+        pyautogui.write(dirnameFull)
+        time.sleep(2)
+        okLocation = pyautogui.locateOnScreen('img/ok_pepper.png')
+        okX, okY = pyautogui.center(okLocation)
+        pyautogui.click(okX, okY)
+        time.sleep(1)
+        pyautogui.click(40, 162)
+        time.sleep(20)
+        print('Done.')
+        proc.terminate()
+        textDirs.append(os.path.abspath(root))
+    print('GeTa > ANNIS conversion finished. Here are the text folders:')
+    for textDir in textDirs:
+        print(textDir)
+
+
 def create_new_dir():
     """
     Create an empty directory for all annotation files.
@@ -74,7 +123,6 @@ def create_new_dir():
 
 def clean_dir(dirname):
     """
-    Delete everything but JSON files in the directory.
     Rename folders and files with a whitespace in them.
     """
     for root, dirs, files in os.walk(dirname, topdown=False):
@@ -87,7 +135,7 @@ def clean_dir(dirname):
             os.rename(root, newDirName)
     for root, dirs, files in os.walk(dirname):
         for fname in files:
-            if fname.lower().endswith('.json'):
+            if fname.lower().endswith(('.json', '.ann', '.ind')):
                 continue
             os.remove(os.path.join(root, fname))
 
@@ -97,3 +145,4 @@ if __name__ == '__main__':
     unzip_all('Annotations_processed')
     clean_dir('Annotations_processed')
     geta2tei('Annotations_processed')
+    geta2annis('Annotations_processed')
