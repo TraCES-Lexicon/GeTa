@@ -1,0 +1,1506 @@
+0	GeTa	FIDLET	ሞ
+0	GeTa	FIDLETED	ሞ
+0	GeTa	TRFID	mo
+3	GeTa	FIDLETED	ተ
+3	GeTa	TRFID	ta
+3	GeTa	FIDLET	ተ
+6	GeTa	FIDLET	ት፡
+6	GeTa	TRFID	t
+6	GeTa	FIDLETED	ት
+8	GeTa	FID	ሞተት
+8	GeTa	FIDED	ሞተት፡
+8	GeTa	Id	W7b5d4a94-949b-41cb-8ae0-6e5f1c1b7ebf
+8	GeTa	Tid	T0>W7b5d4a94-949b-41cb-8ae0-6e5f1c1b7ebf
+8	GeTa	FIDEDh	ሞተት<font color=\'black\'>፡</font><font color=\'blue\'></font>
+9	GeTa	TR	motat
+10	GeTa	FIDLETED	ጊ
+10	GeTa	TRFID	gi
+10	GeTa	FIDLET	ጊ
+13	GeTa	TRFID	ḥo
+13	GeTa	FIDLETED	ሖ
+13	GeTa	FIDLET	ሖ፡
+16	GeTa	FIDEDh	ጊሖ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+16	GeTa_NEA	NET	https://betamasaheft.eu/api/PRS11407Giho/tei
+16	GeTa	FID	ጊሖ
+16	GeTa	FIDED	ጊሖ፡
+16	GeTa	Id	W075d161c-3f67-44d8-b9ff-0b2e9cb7264e
+16	GeTa	Tid	T0>W075d161c-3f67-44d8-b9ff-0b2e9cb7264e
+16	GeTa	NE	N689b0205-dc87-4531-add6-48f7c1741039
+17	GeTa	TR	giḥo
+18	GeTa	FIDLETED	ው
+18	GeTa	FIDLET	ው
+18	GeTa	TRFID	wǝ
+21	GeTa	FIDLET	ለ
+21	GeTa	FIDLETED	ለ
+21	GeTa	TRFID	la
+24	GeTa	FIDLET	ተ፡
+24	GeTa	FIDLETED	ተ
+24	GeTa	TRFID	tta
+28	GeTa	FID	ውለተ
+28	GeTa	Id	W3bada3f0-4493-4443-93d4-12f3f2f38e7a
+28	GeTa	FIDEDh	ውለተ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+28	GeTa	Comm	<div>\n      Note the sixth order of the first letter, instead of the expected first \n      order.\n    </div>
+28	GeTa	FIDED	ውለተ፡
+28	GeTa	Tid	T0>W3bada3f0-4493-4443-93d4-12f3f2f38e7a
+29	GeTa	TR	wǝlatta
+30	GeTa	TRFID	ma
+30	GeTa	FIDLET	መ
+30	GeTa	FIDLETED	መ
+33	GeTa	FIDLETED	ን
+33	GeTa	FIDLET	ን
+33	GeTa	TRFID	n
+35	GeTa	FIDLETED	ገ
+35	GeTa	TRFID	ga
+35	GeTa	FIDLET	ገ
+38	GeTa	FIDLETED	ሣ
+38	GeTa	FIDLET	ሣ፡
+38	GeTa	TRFID	śā
+41	GeTa	Id	Wb4ca99d7-f42a-4764-86b2-22fa1e2e5878
+41	GeTa	FID	መንገሣ
+41	GeTa	Tid	T0>Wb4ca99d7-f42a-4764-86b2-22fa1e2e5878
+41	GeTa	FIDEDh	መንገሣ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+41	GeTa	FIDED	መንገሣ፡
+42	GeTa	TR	mangaśā
+43	GeTa	FIDLETED	በ
+43	GeTa	TRFID	ba
+43	GeTa	FIDLET	በ
+46	GeTa	FIDLETED	ወ
+46	GeTa	FIDLET	ወ
+46	GeTa	TRFID	wa
+49	GeTa	FIDLETED	ር
+49	GeTa	FIDLET	ር
+49	GeTa	TRFID	r
+51	GeTa	NT	lb
+51	GeTa_META_LT_ALS	vl	2
+52	GeTa	TRFID	ḫa
+52	GeTa	FIDLETED	ኀ
+52	GeTa	FIDLET	ኀ፡
+55	GeTa	FIDEDh	በወር<font color=\'red\' size=\'-1\'><b><sup>2</sup></b></font>ኀ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+55	GeTa	Tid	T0>W0032d9cd-1716-455a-8751-72e0b053edfd,T1>W0032d9cd-1716-455a-8751-72e0b053edfd
+55	GeTa	FID	በወርኀ
+55	GeTa	FIDED	በወር2ኀ፡
+55	GeTa	Id	W0032d9cd-1716-455a-8751-72e0b053edfd
+56	GeTa	TR	ba-warḫa
+57	GeTa	FIDLET	ተ
+57	GeTa	TRFID	ta
+57	GeTa	FIDLETED	ተ
+60	GeTa	FIDLET	ሕ
+60	GeTa	TRFID	ḥ
+60	GeTa	FIDLETED	ሕ
+62	GeTa	FIDLETED	ሳ
+62	GeTa	TRFID	sā
+62	GeTa	FIDLET	ሳ
+65	GeTa	FIDLET	ስ፡
+65	GeTa	FIDLETED	ስ
+65	GeTa	TRFID	s
+67	GeTa	Tid	T0>W60775de3-9746-46b7-8a68-44b0c2c1ba35
+67	GeTa	FID	ተሕሳስ
+67	GeTa	FIDED	ተሕሳስ፡
+67	GeTa	FIDEDh	ተሕሳስ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+67	GeTa	Id	W60775de3-9746-46b7-8a68-44b0c2c1ba35
+68	GeTa	TR	taḥsās
+69	GeTa	TRFID	ʾa
+69	GeTa	FIDLETED	አ
+69	GeTa	FIDLET	አ
+72	GeTa	FIDLET	ሜ፡
+72	GeTa	FIDLETED	ሜ
+72	GeTa	TRFID	me
+75	GeTa	FIDEDh	አሜ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+75	GeTa	FIDED	አሜ፡
+75	GeTa	Id	W4c3a8240-98db-4f3c-a340-b53883d89ba9
+75	GeTa	Tid	T0>W4c3a8240-98db-4f3c-a340-b53883d89ba9
+75	GeTa	FID	አሜ
+76	GeTa	TR	ʾame
+77	GeTa	TRFID	20
+77	GeTa	FIDLET	፳
+77	GeTa	FIDLETED	፳
+79	GeTa	FIDLET	፯፡
+79	GeTa	FIDLETED	፯
+79	GeTa	TRFID	7
+81	GeTa	FIDEDh	፳፯<font color=\'black\'>፡</font><font color=\'blue\'></font>
+81	GeTa	FIDED	፳፯፡
+81	GeTa	FID	፳፯
+81	GeTa	Id	W5bd6a256-a358-42d0-a8bb-96d224eb2db6
+81	GeTa	Tid	T0>W5bd6a256-a358-42d0-a8bb-96d224eb2db6,T1>W5bd6a256-a358-42d0-a8bb-96d224eb2db6
+82	GeTa	TR	20-7
+83	GeTa	FIDLETED	ለ
+83	GeTa	TRFID	la
+83	GeTa	FIDLET	ለ
+86	GeTa	FIDLETED	ሠ
+86	GeTa	FIDLET	ሠ
+86	GeTa	TRFID	śa
+89	GeTa	FIDLETED	ር
+89	GeTa	FIDLET	ር
+89	GeTa	TRFID	r
+91	GeTa	FIDLETED	ቅ
+91	GeTa	FIDLET	ቅ፡
+91	GeTa	TRFID	q
+93	GeTa	FIDED	ለሠርቅ፡
+93	GeTa	Id	Wff6a09c7-c19a-4f14-bc0d-47fe7c606aed
+93	GeTa	FID	ለሠርቅ
+93	GeTa	Tid	T0>Wff6a09c7-c19a-4f14-bc0d-47fe7c606aed,T1>Wff6a09c7-c19a-4f14-bc0d-47fe7c606aed
+93	GeTa	FIDEDh	ለሠርቅ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+94	GeTa	TR	la-śarq
+95	GeTa	FIDLET	አ
+95	GeTa	FIDLETED	አ
+95	GeTa	TRFID	ʾa
+98	GeTa	NT	lb
+98	GeTa_META_LT_ALS	vl	3
+99	GeTa	FIDLET	ሜ፡
+99	GeTa	TRFID	me
+99	GeTa	FIDLETED	ሜ
+102	GeTa	FIDED	አ3ሜ፡
+102	GeTa	Id	Wc6b2b4ad-4fb8-4277-b692-9aca471bb300
+102	GeTa	FIDEDh	አ<font color=\'red\' size=\'-1\'><b><sup>3</sup></b></font>ሜ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+102	GeTa	Tid	T0>Wc6b2b4ad-4fb8-4277-b692-9aca471bb300
+102	GeTa	FID	አሜ
+103	GeTa	TR	ʾame
+104	GeTa	FIDLETED	መ
+104	GeTa	TRFID	ma
+104	GeTa	FIDLET	መ
+107	GeTa	FIDLET	ኃ
+107	GeTa	FIDLETED	ኃ
+107	GeTa	TRFID	ḫā
+110	GeTa	TRFID	tǝ
+110	GeTa	FIDLETED	ት
+110	GeTa	FIDLET	ት
+113	GeTa	FIDLETED	ዊ
+113	GeTa	TRFID	wi
+113	GeTa	FIDLET	ዊ
+116	GeTa	TRFID	hu
+116	GeTa	FIDLETED	ሁ
+116	GeTa	FIDLET	ሁ፡
+119	GeTa	FIDED	መኃትዊሁ፡
+119	GeTa	Id	W1bd95eba-804f-4854-83d9-e5bec26ac632
+119	GeTa	FIDEDh	መኃትዊሁ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+119	GeTa	FID	መኃትዊሁ
+119	GeTa	Tid	T0>W1bd95eba-804f-4854-83d9-e5bec26ac632,T1>W1bd95eba-804f-4854-83d9-e5bec26ac632
+120	GeTa	TR	maḫātǝwi-hu
+121	GeTa	FIDLETED	ለ
+121	GeTa	FIDLET	ለ
+121	GeTa	TRFID	la
+124	GeTa	TRFID	ge
+124	GeTa	FIDLETED	ጌ
+124	GeTa	FIDLET	ጌ
+127	GeTa	TRFID	nnā
+127	GeTa	FIDLETED	ና
+127	GeTa	FIDLET	ና፡
+131	GeTa	FID	ለጌና
+131	GeTa	FIDEDh	ለጌና<font color=\'black\'>፡</font><font color=\'blue\'></font>
+131	GeTa	Id	W0c177c90-9f56-4019-b4d8-ccf4475342b7
+131	GeTa	FIDED	ለጌና፡
+131	GeTa	Tid	T0>W0c177c90-9f56-4019-b4d8-ccf4475342b7,T1>W0c177c90-9f56-4019-b4d8-ccf4475342b7
+132	GeTa	TR	la-gennā
+133	GeTa	FIDLET	በ
+133	GeTa	FIDLETED	በ
+133	GeTa	TRFID	ba
+136	GeTa	FIDLET	ዕ
+136	GeTa	FIDLETED	ዕ
+136	GeTa	TRFID	ʿǝ
+139	GeTa	FIDLETED	ለ
+139	GeTa	TRFID	la
+139	GeTa	FIDLET	ለ
+142	GeTa	TRFID	ta
+142	GeTa	FIDLET	ተ፡
+142	GeTa	FIDLETED	ተ
+145	GeTa	FID	በዕለተ
+145	GeTa	FIDEDh	በዕለተ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+145	GeTa	Id	Wd34f1dc4-3cc3-45ae-b583-f7c6af3c8131
+145	GeTa	Tid	T0>Wd34f1dc4-3cc3-45ae-b583-f7c6af3c8131,T1>Wd34f1dc4-3cc3-45ae-b583-f7c6af3c8131
+145	GeTa	FIDED	በዕለተ፡
+146	GeTa	TR	ba-ʿǝlata
+147	GeTa	TRFID	ra
+147	GeTa	FIDLETED	ረ
+147	GeTa	FIDLET	ረ
+150	GeTa	NT	lb
+150	GeTa_META_LT_ALS	vl	4
+151	GeTa	FIDLET	ቡ
+151	GeTa	FIDLETED	ቡ
+151	GeTa	TRFID	bu
+154	GeTa	FIDLETED	ዕ
+154	GeTa	FIDLET	ዕ፡
+154	GeTa	TRFID	ʿ
+156	GeTa	FIDED	ረ4ቡዕ፡
+156	GeTa	FID	ረቡዕ
+156	GeTa	Tid	T0>W6a7fb0ac-448d-40e6-a90e-c4f263ab2339
+156	GeTa	Id	W6a7fb0ac-448d-40e6-a90e-c4f263ab2339
+156	GeTa	FIDEDh	ረ<font color=\'red\' size=\'-1\'><b><sup>4</sup></b></font>ቡዕ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+157	GeTa	TR	rabuʿ
+158	GeTa	TRFID	wa
+158	GeTa	FIDLET	ወ
+158	GeTa	FIDLETED	ወ
+161	GeTa	FIDLETED	ኀ
+161	GeTa	TRFID	ḫa
+161	GeTa	FIDLET	ኀ
+164	GeTa	TRFID	ri
+164	GeTa	FIDLETED	ሪ
+164	GeTa	FIDLET	ሪ
+167	GeTa	FIDLETED	ፉ
+167	GeTa	TRFID	f-u
+167	GeTa	FIDLET	ፉ፡
+170	GeTa	FIDEDh	ወኀሪፉ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+170	GeTa	Id	W429a84b9-04f2-480c-9946-319c1b477a25
+170	GeTa	FIDED	ወኀሪፉ፡
+170	GeTa	FID	ወኀሪፉ
+170	GeTa	Tid	T0>W429a84b9-04f2-480c-9946-319c1b477a25,T1>W429a84b9-04f2-480c-9946-319c1b477a25,T2>W429a84b9-04f2-480c-9946-319c1b477a25
+171	GeTa	TR	wa-ḫarif-u
+172	GeTa	FIDLET	ዓ
+172	GeTa	FIDLETED	ዓ
+172	GeTa	TRFID	ʿā
+175	GeTa	TRFID	ma
+175	GeTa	FIDLET	መ
+175	GeTa	FIDLETED	መ
+178	GeTa	TRFID	t
+178	GeTa	FIDLET	ት፡
+178	GeTa	FIDLETED	ት
+180	GeTa	FIDED	ዓመት፡
+180	GeTa	FIDEDh	ዓመት<font color=\'black\'>፡</font><font color=\'blue\'></font>
+180	GeTa	Tid	T0>Wfcc11a66-9c6e-4b40-a46e-268c63cf836f
+180	GeTa	Id	Wfcc11a66-9c6e-4b40-a46e-268c63cf836f
+180	GeTa	FID	ዓመት
+181	GeTa	TR	ʿāmat
+182	GeTa	FIDLET	እ
+182	GeTa	FIDLETED	እ
+182	GeTa	TRFID	ʾǝ
+185	GeTa	FIDLETED	ኔ
+185	GeTa	TRFID	ne
+185	GeTa	FIDLET	ኔ
+188	GeTa	TRFID	n
+188	GeTa	FIDLET	ን፡
+188	GeTa	FIDLETED	ን
+190	GeTa	Comm	<div>\n      According to Kropp 1999, this is a logogramme for 590.\n    </div>
+190	GeTa	FIDED	እኔን፡
+190	GeTa	Id	W52076763-f953-4d91-89d1-9b33d8b17476
+190	GeTa	Tid	T0>W52076763-f953-4d91-89d1-9b33d8b17476
+190	GeTa	FID	እኔን
+190	GeTa	FIDEDh	እኔን<font color=\'black\'>፡</font><font color=\'blue\'></font>
+191	GeTa	TR	ʾǝnen
+192	GeTa	FIDLETED	ጸ
+192	GeTa	TRFID	ṣa
+192	GeTa	FIDLET	ጸ
+195	GeTa	FIDLETED	ረ
+195	GeTa	TRFID	ra
+195	GeTa	FIDLET	ረ
+198	GeTa	NT	lb
+198	GeTa_META_LT_ALS	vl	5
+199	GeTa	FIDLETED	ኔ
+199	GeTa	FIDLET	ኔ፡
+199	GeTa	TRFID	ne
+202	GeTa	FID	ጸረኔ
+202	GeTa	Id	W9f77e0c4-c808-4834-b325-68ca6bd12255
+202	GeTa	FIDEDh	ጸረ<font color=\'red\' size=\'-1\'><b><sup>5</sup></b></font>ኔ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+202	GeTa	FIDED	ጸረ5ኔ፡
+202	GeTa	Tid	T0>W9f77e0c4-c808-4834-b325-68ca6bd12255
+203	GeTa	TR	ṣarane
+204	GeTa	TRFID	ʾǝ
+204	GeTa	FIDLET	እ
+204	GeTa	FIDLETED	እ
+207	GeTa	FIDLET	ለ፡
+207	GeTa	FIDLETED	ለ
+207	GeTa	TRFID	lla
+211	GeTa	FIDEDh	እለ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+211	GeTa	FIDED	እለ፡
+211	GeTa	Id	W5ffbfd2f-be13-49a2-b551-f6166a41dc56
+211	GeTa	FID	እለ
+211	GeTa	Tid	T0>W5ffbfd2f-be13-49a2-b551-f6166a41dc56
+212	GeTa	TR	ʾǝlla
+213	GeTa	FIDLET	ሠ
+213	GeTa	FIDLETED	ሠ
+213	GeTa	TRFID	śa
+216	GeTa	FIDLET	ህ
+216	GeTa	FIDLETED	ህ
+216	GeTa	TRFID	h
+218	GeTa	FIDLETED	ል
+218	GeTa	FIDLET	ል፡
+218	GeTa	TRFID	l
+220	GeTa	Tid	T0>W13557d04-f343-4ec7-b978-acdc4ddc1492
+220	GeTa	Id	W13557d04-f343-4ec7-b978-acdc4ddc1492
+220	GeTa	FID	ሠህል
+220	GeTa	FIDED	ሠህል፡
+220	GeTa	FIDEDh	ሠህል<font color=\'black\'>፡</font><font color=\'blue\'></font>
+221	GeTa	TR	śahl
+222	GeTa	TRFID	wa
+222	GeTa	FIDLET	ወ
+222	GeTa	FIDLETED	ወ
+225	GeTa	FIDLETED	ባ
+225	GeTa	FIDLET	ባ
+225	GeTa	TRFID	bā
+228	GeTa	FIDLETED	ሕ
+228	GeTa	FIDLET	ሕ
+228	GeTa	TRFID	ḥǝ
+231	GeTa	FIDLETED	ቱ
+231	GeTa	TRFID	ttu
+231	GeTa	FIDLET	ቱ፡
+235	GeTa	FIDED	ወባሕቱ፡
+235	GeTa	FIDEDh	ወባሕቱ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+235	GeTa	Id	W3646642c-fadb-4764-906c-b7e11457e3d2
+235	GeTa	FID	ወባሕቱ
+235	GeTa	Tid	T0>W3646642c-fadb-4764-906c-b7e11457e3d2,T1>W3646642c-fadb-4764-906c-b7e11457e3d2
+236	GeTa	TR	wa-bāḥǝttu
+237	GeTa	FIDLETED	በ
+237	GeTa	FIDLET	በ
+237	GeTa	TRFID	ba
+240	GeTa	FIDLET	ከ
+240	GeTa	FIDLETED	ከ
+240	GeTa	TRFID	ka
+243	GeTa	NT	lb
+243	GeTa_META_LT_ALS	vl	6
+244	GeTa	FIDLETED	መ
+244	GeTa	FIDLET	መ፡
+244	GeTa	TRFID	ma
+247	GeTa	FIDED	በከ6መ፡
+247	GeTa	Tid	T0>W7e1c56eb-51b6-4d24-adcd-6f4ff3b635ab,T1>W7e1c56eb-51b6-4d24-adcd-6f4ff3b635ab
+247	GeTa	FID	በከመ
+247	GeTa	FIDEDh	በከ<font color=\'red\' size=\'-1\'><b><sup>6</sup></b></font>መ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+247	GeTa	Id	W7e1c56eb-51b6-4d24-adcd-6f4ff3b635ab
+248	GeTa	TR	ba-kama
+249	GeTa	FIDLET	ጽ
+249	GeTa	TRFID	ṣǝ
+249	GeTa	FIDLETED	ጽ
+252	GeTa	FIDLET	ሑ
+252	GeTa	TRFID	ḥu
+252	GeTa	FIDLETED	ሑ
+255	GeTa	FIDLET	ፍ፡
+255	GeTa	FIDLETED	ፍ
+255	GeTa	TRFID	f
+257	GeTa	FID	ጽሑፍ
+257	GeTa	Id	Wa8431da3-a173-4766-9eed-0e87272d61ee
+257	GeTa	Tid	T0>Wa8431da3-a173-4766-9eed-0e87272d61ee
+257	GeTa	FIDEDh	ጽሑፍ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+257	GeTa	FIDED	ጽሑፍ፡
+258	GeTa	TR	ṣǝḥuf
+259	GeTa	FIDLET	ብ
+259	GeTa	TRFID	bǝ
+259	GeTa	FIDLETED	ብ
+262	GeTa	FIDLET	ፁ
+262	GeTa	TRFID	ḍu
+262	GeTa	FIDLETED	ፁ
+265	GeTa	FIDLET	ዕ፡
+265	GeTa	TRFID	ʿ
+265	GeTa	FIDLETED	ዕ
+267	GeTa	Tid	T0>W89d21778-c78c-4750-9810-a23d4e217d69
+267	GeTa	Id	W89d21778-c78c-4750-9810-a23d4e217d69
+267	GeTa	FID	ብፁዕ
+267	GeTa	FIDEDh	ብፁዕ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+267	GeTa	FIDED	ብፁዕ፡
+268	GeTa	TR	bǝḍuʿ
+269	GeTa	TRFID	za
+269	GeTa	FIDLET	ዘ
+269	GeTa	FIDLETED	ዘ
+272	GeTa	FIDLETED	ይ
+272	GeTa	FIDLET	ይ
+272	GeTa	TRFID	yǝ
+275	GeTa	FIDLET	ት
+275	GeTa	TRFID	t
+275	GeTa	FIDLETED	ት
+277	GeTa	FIDLET	ወ
+277	GeTa	TRFID	wa
+277	GeTa	FIDLETED	ወ
+280	GeTa	FIDLET	ለ
+280	GeTa	FIDLETED	ለ
+280	GeTa	TRFID	lla
+284	GeTa_META_LT_ALS	vl	7
+284	GeTa	NT	lb
+285	GeTa	FIDLET	ድ፡
+285	GeTa	TRFID	d
+285	GeTa	FIDLETED	ድ
+287	GeTa	Id	Wa426aefc-0afd-4499-889f-7149b7817542
+287	GeTa	FID	ዘይትወለድ
+287	GeTa	FIDED	ዘይትወለ7ድ፡
+287	GeTa	FIDEDh	ዘይትወለ<font color=\'red\' size=\'-1\'><b><sup>7</sup></b></font>ድ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+287	GeTa	Tid	T0>Wa426aefc-0afd-4499-889f-7149b7817542,T1>Wa426aefc-0afd-4499-889f-7149b7817542
+288	GeTa	TR	za-yǝtwallad
+289	GeTa	TRFID	ʾǝ
+289	GeTa	FIDLET	እ
+289	GeTa	FIDLETED	እ
+292	GeTa	FIDLET	ም
+292	GeTa	TRFID	m
+292	GeTa	FIDLETED	ም
+294	GeTa	FIDLETED	አ
+294	GeTa	TRFID	ʾa
+294	GeTa	FIDLET	አ
+297	GeTa	TRFID	nǝ
+297	GeTa	FIDLETED	ን
+297	GeTa	FIDLET	ን
+300	GeTa	FIDLETED	ስ
+300	GeTa	TRFID	s
+300	GeTa	FIDLET	ስ
+302	GeTa	FIDLET	ት፡
+302	GeTa	FIDLETED	ት
+302	GeTa	TRFID	t
+304	GeTa	FID	እምአንስት
+304	GeTa	FIDEDh	እምአንስት<font color=\'black\'>፡</font><font color=\'blue\'></font>
+304	GeTa	Id	W76dde2bb-6af1-48ad-b432-3054f7e2d814
+304	GeTa	FIDED	እምአንስት፡
+304	GeTa	Tid	T0>W76dde2bb-6af1-48ad-b432-3054f7e2d814,T1>W76dde2bb-6af1-48ad-b432-3054f7e2d814
+305	GeTa	TR	ʾǝm-ʾanǝst
+306	GeTa	TRFID	za
+306	GeTa	FIDLETED	ዘ
+306	GeTa	FIDLET	ዘ
+309	GeTa	FIDLETED	ሕ
+309	GeTa	FIDLET	ሕ
+309	GeTa	TRFID	ḥǝ
+312	GeTa	FIDLETED	ዳ
+312	GeTa	TRFID	dā
+312	GeTa	FIDLET	ዳ
+315	GeTa	FIDLETED	ጥ
+315	GeTa	FIDLET	ጥ፡
+315	GeTa	TRFID	ṭ
+317	GeTa_META_LT_ALS	vl	8
+317	GeTa	NT	lb
+318	GeTa	FIDEDh	ዘሕዳጥ<font color=\'black\'>፡</font><font color=\'blue\'></font><font color=\'red\' size=\'-1\'><b><sup>8</sup></b></font>
+318	GeTa	Tid	T0>W88cea64a-f293-424c-9f39-e4782bb1ddf3,T1>W88cea64a-f293-424c-9f39-e4782bb1ddf3
+318	GeTa	Id	W88cea64a-f293-424c-9f39-e4782bb1ddf3
+318	GeTa	FIDED	ዘሕዳጥ፡8
+318	GeTa	FID	ዘሕዳጥ
+319	GeTa	TR	za-ḥǝdāṭ
+320	GeTa	FIDLET	መ
+320	GeTa	FIDLETED	መ
+320	GeTa	TRFID	ma
+323	GeTa	FIDLET	ዋ
+323	GeTa	TRFID	wā
+323	GeTa	FIDLETED	ዋ
+326	GeTa	FIDLET	ዕ
+326	GeTa	TRFID	ʿǝ
+326	GeTa	FIDLETED	ዕ
+329	GeTa	FIDLETED	ሊ
+329	GeTa	FIDLET	ሊ
+329	GeTa	TRFID	li
+332	GeTa	TRFID	hu
+332	GeTa	FIDLETED	ሁ
+332	GeTa	FIDLET	ሁ፡
+335	GeTa	Tid	T0>W6fdf3837-ec72-44f4-a336-379497b68fe9,T1>W6fdf3837-ec72-44f4-a336-379497b68fe9
+335	GeTa	Id	W6fdf3837-ec72-44f4-a336-379497b68fe9
+335	GeTa	FID	መዋዕሊሁ
+335	GeTa	FIDED	መዋዕሊሁ፡
+335	GeTa	FIDEDh	መዋዕሊሁ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+336	GeTa	TR	mawāʿǝli-hu
+337	GeTa	FIDLET	በ
+337	GeTa	TRFID	ba
+337	GeTa	FIDLETED	በ
+340	GeTa	FIDLET	ከ
+340	GeTa	FIDLETED	ከ
+340	GeTa	TRFID	ka
+343	GeTa	FIDLETED	መ
+343	GeTa	FIDLET	መ፡
+343	GeTa	TRFID	ma
+346	GeTa	Id	W1bbdb193-b61a-44f2-b741-7ddc67a760d2
+346	GeTa	FID	በከመ
+346	GeTa	Tid	T0>W1bbdb193-b61a-44f2-b741-7ddc67a760d2,T1>W1bbdb193-b61a-44f2-b741-7ddc67a760d2
+346	GeTa	FIDEDh	በከመ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+346	GeTa	FIDED	በከመ፡
+347	GeTa	TR	ba-kama
+348	GeTa	FIDLETED	ጽ
+348	GeTa	TRFID	ṣǝ
+348	GeTa	FIDLET	ጽ
+351	GeTa	FIDLET	ሑ
+351	GeTa	FIDLETED	ሑ
+351	GeTa	TRFID	ḥu
+354	GeTa	TRFID	f
+354	GeTa	FIDLET	ፍ፡
+354	GeTa	FIDLETED	ፍ
+356	GeTa_META_LT_ALS	vl	9
+356	GeTa	NT	lb
+357	GeTa	Tid	T0>W055385cc-9c7e-4e4f-8ba5-455452c38bdd
+357	GeTa	FIDED	ጽሑፍ፡9
+357	GeTa	Id	W055385cc-9c7e-4e4f-8ba5-455452c38bdd
+357	GeTa	FIDEDh	ጽሑፍ<font color=\'black\'>፡</font><font color=\'blue\'></font><font color=\'red\' size=\'-1\'><b><sup>9</sup></b></font>
+357	GeTa	FID	ጽሑፍ
+358	GeTa	TR	ṣǝḥuf
+359	GeTa	TRFID	wǝ
+359	GeTa	FIDLETED	ው
+359	GeTa	FIDLET	ው
+362	GeTa	FIDLETED	ስ
+362	GeTa	TRFID	s
+362	GeTa	FIDLET	ስ
+364	GeTa	TRFID	ta
+364	GeTa	FIDLETED	ተ
+364	GeTa	FIDLET	ተ፡
+367	GeTa	Tid	T0>Wdbc77175-6fcb-4dcf-9994-6c7346b4ac06
+367	GeTa	FIDED	ውስተ፡
+367	GeTa	FIDEDh	ውስተ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+367	GeTa	FID	ውስተ
+367	GeTa	Id	Wdbc77175-6fcb-4dcf-9994-6c7346b4ac06
+368	GeTa	TR	wǝsta
+369	GeTa	TRFID	wa
+369	GeTa	FIDLETED	ወ
+369	GeTa	FIDLET	ወ
+372	GeTa	TRFID	n
+372	GeTa	FIDLETED	ን
+372	GeTa	FIDLET	ን
+374	GeTa	FIDLETED	ጌ
+374	GeTa	FIDLET	ጌ
+374	GeTa	TRFID	ge
+377	GeTa	TRFID	l
+377	GeTa	FIDLET	ል፡
+377	GeTa	FIDLETED	ል
+379	GeTa_NEA	NET	https://betamasaheft.eu/api/LIT1560Gospel/tei
+379	GeTa	Id	W4686bd89-8054-4ad0-8131-72f18421ad37
+379	GeTa	FIDED	ወንጌል፡
+379	GeTa	FID	ወንጌል
+379	GeTa	NE	Nccd48f6a-05c1-4bca-999d-8737392f2352
+379	GeTa	FIDEDh	ወንጌል<font color=\'black\'>፡</font><font color=\'blue\'></font>
+379	GeTa	Tid	T0>W4686bd89-8054-4ad0-8131-72f18421ad37
+380	GeTa	TR	wangel
+381	GeTa	FIDLETED	ዘ
+381	GeTa	FIDLET	ዘ
+381	GeTa	TRFID	za
+384	GeTa	FIDLETED	በ
+384	GeTa	TRFID	ba
+384	GeTa	FIDLET	በ
+387	GeTa	FIDLETED	ለ
+387	GeTa	FIDLET	ለ
+387	GeTa	TRFID	la
+390	GeTa	TRFID	ʿa
+390	GeTa	FIDLETED	ዐ
+390	GeTa	FIDLET	ዐ፡
+393	GeTa	FID	ዘበለዐ
+393	GeTa	FIDED	ዘበለዐ፡
+393	GeTa	Tid	T0>W6b7fca77-91ca-43c9-b616-8968643e746c,T1>W6b7fca77-91ca-43c9-b616-8968643e746c
+393	GeTa	FIDEDh	ዘበለዐ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+393	GeTa	Id	W6b7fca77-91ca-43c9-b616-8968643e746c
+394	GeTa	TR	za-balaʿa
+395	GeTa	TRFID	śǝ
+395	GeTa	FIDLETED	ሥ
+395	GeTa	FIDLET	ሥ
+398	GeTa	FIDLETED	ጋ
+398	GeTa	FIDLET	ጋ
+398	GeTa	TRFID	gā
+401	GeTa_META_LT_ALS	vl	10
+401	GeTa	NT	lb
+402	GeTa	TRFID	ya
+402	GeTa	FIDLETED	የ
+402	GeTa	FIDLET	የ፡
+405	GeTa	FID	ሥጋየ
+405	GeTa	Tid	T0>W4c629d86-0a0c-43c8-957d-505644a69590,T1>W4c629d86-0a0c-43c8-957d-505644a69590
+405	GeTa	FIDED	ሥጋ10የ፡
+405	GeTa	Id	W4c629d86-0a0c-43c8-957d-505644a69590
+405	GeTa	FIDEDh	ሥጋ<font color=\'red\' size=\'-1\'><b><sup>10</sup></b></font>የ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+406	GeTa	TR	śǝgā-ya
+407	GeTa	FIDLET	ወ
+407	GeTa	TRFID	wa
+407	GeTa	FIDLETED	ወ
+410	GeTa	FIDLET	ሰ
+410	GeTa	TRFID	sa
+410	GeTa	FIDLETED	ሰ
+413	GeTa	FIDLET	ቲ
+413	GeTa	TRFID	ti
+413	GeTa	FIDLETED	ቲ
+416	GeTa	FIDLET	የ፡
+416	GeTa	FIDLETED	የ
+416	GeTa	TRFID	ya
+419	GeTa	FID	ወሰቲየ
+419	GeTa	Tid	T0>Wb0ad335c-4b38-4a5b-a792-c34de2ac5c64,T1>Wb0ad335c-4b38-4a5b-a792-c34de2ac5c64
+419	GeTa	FIDED	ወሰቲየ፡
+419	GeTa	Id	Wb0ad335c-4b38-4a5b-a792-c34de2ac5c64
+419	GeTa	FIDEDh	ወሰቲየ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+420	GeTa	TR	wa-satiya
+421	GeTa	FIDLET	ደ
+421	GeTa	TRFID	da
+421	GeTa	FIDLETED	ደ
+424	GeTa	FIDLET	ም
+424	GeTa	TRFID	mǝ
+424	GeTa	FIDLETED	ም
+427	GeTa	FIDLETED	የ
+427	GeTa	FIDLET	የ፡
+427	GeTa	TRFID	ya
+430	GeTa	FID	ደምየ
+430	GeTa	FIDED	ደምየ፡
+430	GeTa	Id	We54dc408-2e39-45ce-b864-71727ed207d0
+430	GeTa	FIDEDh	ደምየ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+430	GeTa	Tid	T0>We54dc408-2e39-45ce-b864-71727ed207d0,T1>We54dc408-2e39-45ce-b864-71727ed207d0
+431	GeTa	TR	damǝ-ya
+432	GeTa	TRFID	ʾi
+432	GeTa	FIDLETED	ኢ
+432	GeTa	FIDLET	ኢ
+435	GeTa	FIDLET	ይ
+435	GeTa	FIDLETED	ይ
+435	GeTa	TRFID	yǝ
+438	GeTa	FIDLET	ጥ
+438	GeTa	FIDLETED	ጥ
+438	GeTa	TRFID	ṭǝ
+441	GeTa	FIDLET	ዕ
+441	GeTa	TRFID	ʿǝ
+441	GeTa	FIDLETED	ዕ
+444	GeTa	TRFID	m-ā
+444	GeTa	FIDLET	ማ፡
+444	GeTa	FIDLETED	ማ
+444	GeTa	pLB	1
+447	GeTa_META_LT_ALS	vl	11
+447	GeTa	NT	lb
+448	GeTa	FID	ኢይጥዕማ
+448	GeTa	Id	Wb78c70be-16ce-4dce-b8f8-d36a3670b969
+448	GeTa	FIDED	ኢይጥዕማ11፡
+448	GeTa	FIDEDh	ኢይጥዕማ<font color=\'red\' size=\'-1\'><b><sup>11</sup></b></font><font color=\'black\'>፡</font><font color=\'blue\'></font>
+448	GeTa	Tid	T0>Wb78c70be-16ce-4dce-b8f8-d36a3670b969,T1>Wb78c70be-16ce-4dce-b8f8-d36a3670b969,T2>Wb78c70be-16ce-4dce-b8f8-d36a3670b969
+449	GeTa	TR	ʾi-yǝṭǝʿǝm-ā
+450	GeTa	FIDLETED	ለ
+450	GeTa	TRFID	la
+450	GeTa	FIDLET	ለ
+453	GeTa	FIDLETED	ሞ
+453	GeTa	FIDLET	ሞ
+453	GeTa	TRFID	mo
+456	GeTa	TRFID	t
+456	GeTa	FIDLET	ት፡
+456	GeTa	FIDLETED	ት
+458	GeTa	FIDEDh	ለሞት<font color=\'black\'>፡</font><font color=\'blue\'></font>
+458	GeTa	FID	ለሞት
+458	GeTa	Id	Wa4309b2a-4c9c-4be9-9e79-016b0c69f941
+458	GeTa	Tid	T0>Wa4309b2a-4c9c-4be9-9e79-016b0c69f941,T1>Wa4309b2a-4c9c-4be9-9e79-016b0c69f941
+458	GeTa	FIDED	ለሞት፡
+459	GeTa	TR	la-mot
+460	GeTa	FIDLET	ወ
+460	GeTa	FIDLETED	ወ
+460	GeTa	TRFID	wa
+463	GeTa	TRFID	ʾa
+463	GeTa	FIDLET	አ
+463	GeTa	FIDLETED	አ
+466	GeTa	FIDLETED	ነ
+466	GeTa	FIDLET	ነ፡
+466	GeTa	TRFID	na
+469	GeTa	Tid	T0>Wb111654f-c853-4a1e-a3c7-1d0149fd4550,T1>Wb111654f-c853-4a1e-a3c7-1d0149fd4550
+469	GeTa	Id	Wb111654f-c853-4a1e-a3c7-1d0149fd4550
+469	GeTa	FIDEDh	ወአነ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+469	GeTa	FID	ወአነ
+469	GeTa	FIDED	ወአነ፡
+470	GeTa	TR	wa-ʾana
+471	GeTa	FIDLET	አ
+471	GeTa	TRFID	ʾa
+471	GeTa	FIDLETED	አ
+474	GeTa	FIDLET	ነ
+474	GeTa	TRFID	na
+474	GeTa	FIDLETED	ነ
+477	GeTa	FIDLET	ሥ
+477	GeTa	TRFID	śśǝ
+477	GeTa	FIDLETED	ሥ
+481	GeTa	FIDLET	አ፡
+481	GeTa	TRFID	ʾ-a
+481	GeTa	FIDLETED	አ
+484	GeTa	Id	W31909ab5-b910-4f8e-ad58-90087a6ba9b9
+484	GeTa	Comm	<div>\n      The expected 7th order of the final letter is not to be discerned.\n    </div>
+484	GeTa	FID	አነሥአ
+484	GeTa	FIDEDh	አነሥአ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+484	GeTa	Tid	T0>W31909ab5-b910-4f8e-ad58-90087a6ba9b9,T1>W31909ab5-b910-4f8e-ad58-90087a6ba9b9
+484	GeTa	FIDED	አነሥአ፡
+485	GeTa	TR	ʾanaśśǝʾ-a
+486	GeTa	TRFID	ʾa
+486	GeTa	FIDLETED	አ
+486	GeTa	FIDLET	አ
+489	GeTa	FIDLETED	መ
+489	GeTa	FIDLET	መ
+489	GeTa	TRFID	ma
+492	GeTa	NT	lb
+492	GeTa_META_LT_ALS	vl	12
+493	GeTa	Id	Wf365220d-e640-44ab-a338-3df9c63189a0
+493	GeTa	FID	አመ
+493	GeTa	FIDED	አመ12
+493	GeTa	Tid	T0>Wf365220d-e640-44ab-a338-3df9c63189a0
+493	GeTa	FIDEDh	አመ<font color=\'red\' size=\'-1\'><b><sup>12</sup></b></font>
+494	GeTa	TR	ʾama
+495	GeTa	FIDLET	ደ
+495	GeTa	TRFID	da
+495	GeTa	FIDLETED	ደ
+498	GeTa	TRFID	ḫā
+498	GeTa	FIDLET	ኃ
+498	GeTa	FIDLETED	ኃ
+501	GeTa	FIDLETED	ሪ
+501	GeTa	FIDLET	ሪ፡
+501	GeTa	TRFID	ri
+504	GeTa	FID	ደኃሪ
+504	GeTa	Tid	T0>W1ca7dbde-7ec1-40cc-a772-c0ef263458d8
+504	GeTa	FIDEDh	ደኃሪ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+504	GeTa	Id	W1ca7dbde-7ec1-40cc-a772-c0ef263458d8
+504	GeTa	FIDED	ደኃሪ፡
+505	GeTa	TR	daḫāri
+506	GeTa	FIDLETED	ዕ
+506	GeTa	FIDLET	ዕ
+506	GeTa	TRFID	ʿǝ
+509	GeTa	FIDLETED	ለ
+509	GeTa	TRFID	la
+509	GeTa	FIDLET	ለ
+512	GeTa	FIDLETED	ት
+512	GeTa	FIDLET	ት፡
+512	GeTa	TRFID	t
+514	GeTa	Id	W76724c06-11d9-4d5f-9619-c3f06403adc5
+514	GeTa	Tid	T0>W76724c06-11d9-4d5f-9619-c3f06403adc5
+514	GeTa	FIDED	ዕለት፡
+514	GeTa	FID	ዕለት
+514	GeTa	FIDEDh	ዕለት<font color=\'black\'>፡</font><font color=\'blue\'></font>
+515	GeTa	TR	ʿǝlat
+516	GeTa	FIDLETED	በ
+516	GeTa	FIDLET	በ
+516	GeTa	TRFID	ba
+519	GeTa	FIDLETED	ከ
+519	GeTa	TRFID	ka
+519	GeTa	FIDLET	ከ
+522	GeTa	TRFID	ma
+522	GeTa	FIDLET	መ፡
+522	GeTa	FIDLETED	መ
+525	GeTa	FIDED	በከመ፡
+525	GeTa	Tid	T0>W06c1273c-05ab-4c3a-a40d-e552eebdfaf2,T1>W06c1273c-05ab-4c3a-a40d-e552eebdfaf2
+525	GeTa	FIDEDh	በከመ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+525	GeTa	FID	በከመ
+525	GeTa	Id	W06c1273c-05ab-4c3a-a40d-e552eebdfaf2
+526	GeTa	TR	ba-kama
+527	GeTa	FIDLET	ጽ
+527	GeTa	FIDLETED	ጽ
+527	GeTa	TRFID	ṣǝ
+530	GeTa	TRFID	ḥǝ
+530	GeTa	FIDLET	ሕ
+530	GeTa	FIDLETED	ሕ
+533	GeTa	FIDLETED	ፍ
+533	GeTa	FIDLET	ፍ፡
+533	GeTa	TRFID	f
+535	GeTa_META_LT_ALS	vl	13
+535	GeTa	NT	lb
+536	GeTa	FIDEDh	ጽሕፍ<font color=\'black\'>፡</font><font color=\'blue\'></font><font color=\'red\' size=\'-1\'><b><sup>13</sup></b></font>
+536	GeTa	FIDED	ጽሕፍ፡13
+536	GeTa	Id	W46b83e73-0868-473a-9247-67f5612400e0
+536	GeTa	Tid	T0>W46b83e73-0868-473a-9247-67f5612400e0
+536	GeTa	FID	ጽሕፍ
+537	GeTa	TR	ṣǝḥǝf
+538	GeTa	FIDLET	ው
+538	GeTa	FIDLETED	ው
+538	GeTa	TRFID	wǝ
+541	GeTa	TRFID	s
+541	GeTa	FIDLETED	ስ
+541	GeTa	FIDLET	ስ
+543	GeTa	FIDLET	ተ፡
+543	GeTa	TRFID	ta
+543	GeTa	FIDLETED	ተ
+546	GeTa	Id	W4d381b70-4373-443c-90e6-90b21611e1d9
+546	GeTa	Tid	T0>W4d381b70-4373-443c-90e6-90b21611e1d9
+546	GeTa	FIDED	ውስተ፡
+546	GeTa	FID	ውስተ
+546	GeTa	FIDEDh	ውስተ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+547	GeTa	TR	wǝsta
+548	GeTa	TRFID	na
+548	GeTa	FIDLETED	ነ
+548	GeTa	FIDLET	ነ
+551	GeTa	TRFID	bǝ
+551	GeTa	FIDLET	ብ
+551	GeTa	FIDLETED	ብ
+554	GeTa	FIDLETED	ይ
+554	GeTa	TRFID	y
+554	GeTa	FIDLET	ይ፡
+556	GeTa_NEA	NET	https://betamasaheft.eu/api/LIT2194Prophe/tei
+556	GeTa	Id	W2981a4e1-18ce-43e1-8427-ba9a60bfd7f5
+556	GeTa	Tid	T0>W2981a4e1-18ce-43e1-8427-ba9a60bfd7f5
+556	GeTa	FIDEDh	ነብይ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+556	GeTa	NE	N2dd29175-e0dc-407a-9525-7c9c5100d7d6
+556	GeTa	FID	ነብይ
+556	GeTa	FIDED	ነብይ፡
+557	GeTa	TR	nabǝy
+558	GeTa	FIDLETED	ም
+558	GeTa	TRFID	mǝ
+558	GeTa	FIDLET	ም
+561	GeTa	FIDLETED	ው
+561	GeTa	TRFID	w
+561	GeTa	FIDLET	ው
+563	GeTa	FIDLETED	ታ
+563	GeTa	FIDLET	ታ
+563	GeTa	TRFID	tā
+566	GeTa	FIDLETED	ን
+566	GeTa	TRFID	n
+566	GeTa	FIDLET	ን፡
+568	GeTa	FIDED	ምውታን፡
+568	GeTa	Tid	T0>Wf7f94300-5534-45f3-a442-692b1397d5ad
+568	GeTa	FIDEDh	ምውታን<font color=\'black\'>፡</font><font color=\'blue\'></font>
+568	GeTa	Id	Wf7f94300-5534-45f3-a442-692b1397d5ad
+568	GeTa	FID	ምውታን
+569	GeTa	TR	mǝwtān
+570	GeTa	FIDLET	ይ
+570	GeTa	FIDLETED	ይ
+570	GeTa	TRFID	yǝ
+573	GeTa	TRFID	t
+573	GeTa	FIDLETED	ት
+573	GeTa	FIDLET	ት
+575	GeTa	FIDLETED	ነ
+575	GeTa	TRFID	na
+575	GeTa	FIDLET	ነ
+578	GeTa_META_LT_ALS	vl	14
+578	GeTa	NT	lb
+579	GeTa	FIDLET	ሥ
+579	GeTa	FIDLETED	ሥ
+579	GeTa	TRFID	śśǝ
+583	GeTa	FIDLETED	ኡ
+583	GeTa	FIDLET	ኡ፡
+583	GeTa	TRFID	ʾu
+586	GeTa	FIDEDh	ይትነ<font color=\'red\' size=\'-1\'><b><sup>14</sup></b></font>ሥኡ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+586	GeTa	FIDED	ይትነ14ሥኡ፡
+586	GeTa	Id	We4152ff3-c494-4962-83dc-c60ac6e0e117
+586	GeTa	FID	ይትነሥኡ
+586	GeTa	Tid	T0>We4152ff3-c494-4962-83dc-c60ac6e0e117
+587	GeTa	TR	yǝtnaśśǝʾu
+588	GeTa	TRFID	wa
+588	GeTa	FIDLETED	ወ
+588	GeTa	FIDLET	ወ
+591	GeTa	FIDLETED	የ
+591	GeTa	TRFID	ya
+591	GeTa	FIDLET	የ
+594	GeTa	FIDLET	ሐ
+594	GeTa	FIDLETED	ሐ
+594	GeTa	TRFID	ḥa
+597	GeTa	FIDLETED	ይ
+597	GeTa	FIDLET	ይ
+597	GeTa	TRFID	yyǝ
+601	GeTa	TRFID	wu
+601	GeTa	FIDLETED	ዉ
+601	GeTa	FIDLET	ዉ፡
+604	GeTa	FID	ወየሐይዉ
+604	GeTa	FIDED	ወየሐይዉ፡
+604	GeTa	Tid	T0>Wd90c9b5a-9fea-495e-81f3-e9395650ffad,T1>Wd90c9b5a-9fea-495e-81f3-e9395650ffad
+604	GeTa	FIDEDh	ወየሐይዉ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+604	GeTa	Id	Wd90c9b5a-9fea-495e-81f3-e9395650ffad
+605	GeTa	TR	wa-yaḥayyǝwu
+606	GeTa	FIDLET	እ
+606	GeTa	FIDLETED	እ
+606	GeTa	TRFID	ʾǝ
+609	GeTa	FIDLETED	ለ
+609	GeTa	TRFID	lla
+609	GeTa	FIDLET	ለ፡
+613	GeTa	Tid	T0>W9e40bf27-9118-4f4f-8815-33c9f7c979f9
+613	GeTa	FID	እለ
+613	GeTa	Id	W9e40bf27-9118-4f4f-8815-33c9f7c979f9
+613	GeTa	FIDEDh	እለ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+613	GeTa	FIDED	እለ፡
+614	GeTa	TR	ʾǝlla
+615	GeTa	FIDLET	ው
+615	GeTa	FIDLETED	ው
+615	GeTa	TRFID	wǝ
+618	GeTa	FIDLETED	ስ
+618	GeTa	FIDLET	ስ
+618	GeTa	TRFID	s
+620	GeTa	NT	lb
+620	GeTa_META_LT_ALS	vl	15
+621	GeTa	TRFID	ta
+621	GeTa	FIDLETED	ተ
+621	GeTa	FIDLET	ተ፡
+624	GeTa	FIDED	ውስ15ተ፡
+624	GeTa	Tid	T0>W25714d42-7c9f-4633-820d-b54030a4f524
+624	GeTa	Id	W25714d42-7c9f-4633-820d-b54030a4f524
+624	GeTa	FIDEDh	ውስ<font color=\'red\' size=\'-1\'><b><sup>15</sup></b></font>ተ<font color=\'black\'>፡</font><font color=\'blue\'></font>
+624	GeTa	FID	ውስተ
+625	GeTa	TR	wǝsta
+626	GeTa	FIDLETED	መ
+626	GeTa	FIDLET	መ
+626	GeTa	TRFID	ma
+629	GeTa	FIDLETED	ቃ
+629	GeTa	FIDLET	ቃ
+629	GeTa	TRFID	qā
+632	GeTa	FIDLETED	ብ
+632	GeTa	TRFID	bǝ
+632	GeTa	FIDLET	ብ
+635	GeTa	TRFID	r
+635	GeTa	FIDLETED	ር
+635	GeTa	FIDLET	ር
+637	GeTa	FIDEDh	መቃብር
+637	GeTa	FID	መቃብር
+637	GeTa	Tid	T0>W3c734ca8-c800-4267-95da-70fb8e6d58f8
+637	GeTa	Id	W3c734ca8-c800-4267-95da-70fb8e6d58f8
+637	GeTa	FIDED	መቃብር
+638	GeTa	TR	maqābǝr
+639	GeTa_TEA_LT_ALS	gender	Feminine
+639	GeTa_TEA	ne	false
+639	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L2d417be91261494990015aae6b9b5d81/teientry">ሞተ</a>
+639	GeTa_TEA_LT_ALS	tam	Perfect
+639	GeTa_TEA_LT_ALS	number	Singular
+639	GeTa_TEA_LT_ALS	person	Third
+639	GeTa_TEA	NT	Verb
+639	GeTa_TEA	TOKL	motat
+639	GeTa_TEA_LT_ALS	lex	ሞተ
+640	GeTa_TEA	NEId	N689b0205-dc87-4531-add6-48f7c1741039
+640	GeTa_TEA_LT_ALS	gender-nature	Feminine
+640	GeTa_TEA_LT_ALS	case	Nominative
+640	GeTa_TEA	NT	Proper Name
+640	GeTa_TEA	TOKL	giḥo
+640	GeTa_TEA	ne	true
+640	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L1d268de0f99f47699304afd08e321be8/teientry">ጊሖ</a>
+640	GeTa_TEA_LT_ALS	number-pattern	Singular
+640	GeTa_TEA_LT_ALS	lex	ጊሖ
+640	GeTa_TEA_LT_ALS	number-syntax	Singular
+641	GeTa_TEA_LT_ALS	gender-pattern	Feminine
+641	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L191cd0419c034d3caaa976b71741fd59/teientry">ወለት</a>
+641	GeTa_TEA	NT	Common Noun
+641	GeTa_TEA_LT_ALS	case	Nominative
+641	GeTa_TEA_LT_ALS	gender-nature	Feminine
+641	GeTa_TEA_LT_ALS	state	Construct state
+641	GeTa_TEA	ne	false
+641	GeTa_TEA_LT_ALS	lex	ወለት
+641	GeTa_TEA_LT_ALS	number-pattern	Singular
+641	GeTa_TEA	TOKL	wǝlatta
+642	GeTa_TEA_LT_ALS	number-pattern	Singular
+642	GeTa_TEA	TOKL	mangaśā
+642	GeTa_TEA	ne	false
+642	GeTa_TEA_LT_ALS	lex	መንገሣ
+642	GeTa_TEA_LT_ALS	case	Nominative
+642	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L505374e6b2274a9d99823a115b5ec761/teientry">መንገሣ</a>
+642	GeTa_TEA	NT	Proper Name
+642	GeTa_TEA_LT_ALS	gender-nature	Masculine
+643	GeTa_TEA	TOKL	ba
+643	GeTa_TEA_LT_ALS	state	Nominal state
+643	GeTa_TEA	NT	Preposition
+643	GeTa_TEA_LT_ALS	lex	በ
+643	GeTa_TEA	ne	false
+643	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L79528bf91b00402f9cb3505bd6ea3010/teientry">በ</a>
+644	GeTa_TEA_LT_ALS	gender	Unmarked
+644	GeTa_TEA_LT_ALS	number-pattern	Singular
+644	GeTa_TEA_LT_ALS	case	Nominative
+644	GeTa_TEA	NT	Common Noun
+644	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lc95fe7dc0d014ea9a443ed4f6e3d4d1e/teientry">ወርኅ</a>
+644	GeTa_TEA_LT_ALS	state	Construct state
+644	GeTa_TEA	ne	false
+644	GeTa_TEA_LT_ALS	lex	ወርኅ
+644	GeTa_TEA	TOKL	warḫa
+645	GeTa_TEA_LT_ALS	case	Nominative
+645	GeTa_TEA_LT_ALS	state	Absolute state
+645	GeTa_TEA_LT_ALS	gender	Unmarked
+645	GeTa_TEA_LT_ALS	number-pattern	Singular
+645	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5b041375fb55403694a1f128af80c930/teientry">ታኅሣሥ</a>
+645	GeTa_TEA	ne	false
+645	GeTa_TEA	NT	Common Noun
+645	GeTa_TEA_LT_ALS	lex	ታኅሣሥ
+645	GeTa_TEA	TOKL	taḥsās
+646	GeTa_TEA	ne	false
+646	GeTa_TEA_LT_ALS	lex	አመ
+646	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L7d5037bf8b4a42ebb24a587b03e99c9d/teientry">አመ</a>
+646	GeTa_TEA_LT_ALS	state	Nominal state
+646	GeTa_TEA	NT	Preposition
+646	GeTa_TEA	TOKL	ʾame
+647	GeTa_TEA_LT_ALS	logogram	20
+647	GeTa_TEA	TOKL	20
+647	GeTa_TEA	NT	Cardinal Numeral
+647	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L00489047d55048ed9e726dfa1f5302b7/teientry">ዕሥራ</a>
+647	GeTa_TEA_LT_ALS	lex	ዕሥራ
+647	GeTa_TEA	ne	false
+648	GeTa_TEA	NT	Cardinal Numeral
+648	GeTa_TEA_LT_ALS	lex	ሰብዐቱ
+648	GeTa_TEA	ne	false
+648	GeTa_TEA	TOKL	7
+648	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L8f37a495d4b144cf81775ed07e8a53ff/teientry">ሰብዐቱ</a>
+648	GeTa_TEA_LT_ALS	logogram	7
+649	GeTa_TEA	ne	false
+649	GeTa_TEA_LT_ALS	lex	ለ
+649	GeTa_TEA_LT_ALS	state	Nominal state
+649	GeTa_TEA	NT	Preposition
+649	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Le4d650c370464996939e7bfb43dd6444/teientry">ለ</a>
+649	GeTa_TEA	TOKL	la
+650	GeTa_TEA_LT_ALS	gender	Unmarked
+650	GeTa_TEA	ne	false
+650	GeTa_TEA_LT_ALS	state	Absolute state
+650	GeTa_TEA	NT	Common Noun
+650	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Le659849f20074e9fa613cf50673e6550/teientry">ሠርቅ</a>
+650	GeTa_TEA_LT_ALS	case	Nominative
+650	GeTa_TEA_LT_ALS	lex	ሠርቅ
+650	GeTa_TEA	TOKL	śarq
+650	GeTa_TEA_LT_ALS	number-pattern	Singular
+651	GeTa_TEA	NT	Preposition
+651	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L7d5037bf8b4a42ebb24a587b03e99c9d/teientry">አመ</a>
+651	GeTa_TEA	TOKL	ʾame
+651	GeTa_TEA_LT_ALS	lex	አመ
+651	GeTa_TEA	ne	false
+651	GeTa_TEA_LT_ALS	state	Nominal state
+652	GeTa_TEA_LT_ALS	gender	Unmarked
+652	GeTa_TEA_LT_ALS	state	Pronominal state
+652	GeTa_TEA	TOKL	maḫātǝwi
+652	GeTa_TEA	ne	false
+652	GeTa_TEA_LT_ALS	number-pattern	Plural Intern
+652	GeTa_TEA_LT_ALS	case	Nominative
+652	GeTa_TEA_LT_ALS	lex	ማኅቶት
+652	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L25e812191f2941a0a79cea3284b68d10/teientry">ማኅቶት</a>
+652	GeTa_TEA	NT	Common Noun
+653	GeTa_TEA_LT_ALS	number	Singular
+653	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lf53c640a22434497bb07041c9b705f5f/teientry">ሁ</a>
+653	GeTa_TEA	ne	false
+653	GeTa_TEA_LT_ALS	gender	Masculine
+653	GeTa_TEA	TOKL	hu
+653	GeTa_TEA_LT_ALS	lex	ሁ
+653	GeTa_TEA_LT_ALS	person	Third
+653	GeTa_TEA	NT	Pronominal Suffix
+654	GeTa_TEA	TOKL	la
+654	GeTa_TEA	ne	false
+654	GeTa_TEA	NT	Preposition
+654	GeTa_TEA_LT_ALS	lex	ለ
+654	GeTa_TEA_LT_ALS	state	Nominal state
+654	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Le4d650c370464996939e7bfb43dd6444/teientry">ለ</a>
+655	GeTa_TEA_LT_ALS	number-pattern	Singular
+655	GeTa_TEA_LT_ALS	state	Absolute state
+655	GeTa_TEA	TOKL	gennā
+655	GeTa_TEA	NT	Common Noun
+655	GeTa_TEA_LT_ALS	number-syntax	Singular
+655	GeTa_TEA	ne	false
+655	GeTa_TEA_LT_ALS	case	Nominative
+655	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L009a69eeb66d4c1eacc24b18d787d422/teientry">ጌና</a>
+655	GeTa_TEA_LT_ALS	lex	ጌና
+656	GeTa_TEA_LT_ALS	state	Nominal state
+656	GeTa_TEA	ne	false
+656	GeTa_TEA	TOKL	ba
+656	GeTa_TEA_LT_ALS	lex	በ
+656	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L79528bf91b00402f9cb3505bd6ea3010/teientry">በ</a>
+656	GeTa_TEA	NT	Preposition
+657	GeTa_TEA_LT_ALS	number-pattern	Singular
+657	GeTa_TEA	TOKL	ʿǝlata
+657	GeTa_TEA_LT_ALS	state	Construct state
+657	GeTa_TEA_LT_ALS	case	Nominative
+657	GeTa_TEA	NT	Common Noun
+657	GeTa_TEA_LT_ALS	gender	Unmarked
+657	GeTa_TEA	ne	false
+657	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L9a14aa1298674380b36629792eda9a99/teientry">ዕለት</a>
+657	GeTa_TEA_LT_ALS	lex	ዕለት
+658	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lff0db3fff93142e58288456b627baed0/teientry">ረቡዕ</a>
+658	GeTa_TEA_LT_ALS	case	Nominative
+658	GeTa_TEA_LT_ALS	gender	Unmarked
+658	GeTa_TEA_LT_ALS	lex	ረቡዕ
+658	GeTa_TEA	TOKL	rabuʿ
+658	GeTa_TEA	ne	false
+658	GeTa_TEA	NT	Ordinal Numeral
+658	GeTa_TEA_LT_ALS	number	Singular
+658	GeTa_TEA_LT_ALS	state	Absolute state
+659	GeTa_TEA	TOKL	wa
+659	GeTa_TEA_LT_ALS	lex	ወ
+659	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5be3816e2da14855b9e11b601d83bb79/teientry">ወ</a>
+659	GeTa_TEA	NT	Conjunction
+659	GeTa_TEA	ne	false
+660	GeTa_TEA_LT_ALS	state	Pronominal state
+660	GeTa_TEA_LT_ALS	lex	ኀሪፍ
+660	GeTa_TEA	TOKL	ḫarif
+660	GeTa_TEA	NT	Common Noun
+660	GeTa_TEA_LT_ALS	gender	Unmarked
+660	GeTa_TEA_LT_ALS	case	Nominative
+660	GeTa_TEA	ne	false
+660	GeTa_TEA_LT_ALS	number-pattern	Singular
+660	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L3482aa952a754e61b7b05fcb896bbee2/teientry">ኀሪፍ</a>
+661	GeTa_TEA_LT_ALS	number	Singular
+661	GeTa_TEA_LT_ALS	gender	Masculine
+661	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lf53c640a22434497bb07041c9b705f5f/teientry">ሁ</a>
+661	GeTa_TEA	NT	Pronominal Suffix
+661	GeTa_TEA	ne	false
+661	GeTa_TEA	TOKL	u
+661	GeTa_TEA_LT_ALS	person	Third
+661	GeTa_TEA_LT_ALS	lex	ሁ
+662	GeTa_TEA_LT_ALS	gender	Unmarked
+662	GeTa_TEA	NT	Common Noun
+662	GeTa_TEA	TOKL	ʿāmat
+662	GeTa_TEA_LT_ALS	number-pattern	Singular
+662	GeTa_TEA_LT_ALS	lex	ዓመት
+662	GeTa_TEA	ne	false
+662	GeTa_TEA_LT_ALS	state	Absolute state
+662	GeTa_TEA_LT_ALS	case	Nominative
+662	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L8424fc8ff4f3488fb28fbff3980f7e2f/teientry">ዓመት</a>
+663	GeTa_TEA	TOKL	ʾǝnen
+664	GeTa_TEA	TOKL	ṣarane
+665	GeTa_TEA_LT_ALS	gender	Communis
+665	GeTa_TEA	TOKL	ʾǝlla
+665	GeTa_TEA	ne	false
+665	GeTa_TEA	NT	Relative Pronoun
+665	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L7f88f9d1fb5c42e7ad39ba621daafec1/teientry">ዘ</a>
+665	GeTa_TEA_LT_ALS	number	Plural
+665	GeTa_TEA_LT_ALS	lex	ዘ
+666	GeTa_TEA_LT_ALS	lex	ሣህል
+666	GeTa_TEA_LT_ALS	gender	Unmarked
+666	GeTa_TEA_LT_ALS	state	Absolute state
+666	GeTa_TEA	NT	Common Noun
+666	GeTa_TEA_LT_ALS	number-pattern	Singular
+666	GeTa_TEA_LT_ALS	case	Nominative
+666	GeTa_TEA	TOKL	śahl
+666	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L850462b08464489391d00bf0ad36c483/teientry">ሣህል</a>
+666	GeTa_TEA	ne	false
+667	GeTa_TEA_LT_ALS	lex	ወ
+667	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5be3816e2da14855b9e11b601d83bb79/teientry">ወ</a>
+667	GeTa_TEA	ne	false
+667	GeTa_TEA	NT	Conjunction
+667	GeTa_TEA	TOKL	wa
+668	GeTa_TEA	ne	false
+668	GeTa_TEA_LT_ALS	lex	ባሕቱ
+668	GeTa_TEA	NT	Conjunction
+668	GeTa_TEA	TOKL	bāḥǝttu
+668	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L38723353be4f4dccb3cb839c5b82968c/teientry">ባሕቱ</a>
+669	GeTa_TEA_LT_ALS	state	Nominal state
+669	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L79528bf91b00402f9cb3505bd6ea3010/teientry">በ</a>
+669	GeTa_TEA	TOKL	ba
+669	GeTa_TEA_LT_ALS	lex	በ
+669	GeTa_TEA	NT	Preposition
+669	GeTa_TEA	ne	false
+670	GeTa_TEA_LT_ALS	lex	ከመ
+670	GeTa_TEA	NT	Conjunction
+670	GeTa_TEA_LT_ALS	state	Nominal state
+670	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L22c2e71ac6c0443e8f05d480b3ac9e85/teientry">ከመ</a>
+670	GeTa_TEA	TOKL	kama
+670	GeTa_TEA	ne	false
+671	GeTa_TEA	ne	false
+671	GeTa_TEA_LT_ALS	state	Absolute state
+671	GeTa_TEA	NT	Common Noun
+671	GeTa_TEA_LT_ALS	lex	ጽሑፍ
+671	GeTa_TEA	TOKL	ṣǝḥuf
+671	GeTa_TEA_LT_ALS	gender	Masculine
+671	GeTa_TEA_LT_ALS	number-pattern	Singular
+671	GeTa_TEA_LT_ALS	case	Nominative
+671	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L4c32bce9da5443f79b2f6c674246838d/teientry">ጽሑፍ</a>
+672	GeTa_TEA_LT_ALS	state	Absolute state
+672	GeTa_TEA_LT_ALS	case	Nominative
+672	GeTa_TEA_LT_ALS	gender	Masculine
+672	GeTa_TEA	ne	false
+672	GeTa_TEA_LT_ALS	lex	ብጽዕ
+672	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L08afdf2656cb475da8eda4a8914d1c5d/teientry">ብጽዕ</a>
+672	GeTa_TEA	TOKL	bǝḍuʿ
+672	GeTa_TEA_LT_ALS	number-syntax	Singular
+672	GeTa_TEA_LT_ALS	number-pattern	Singular
+672	GeTa_TEA	NT	Common Noun
+673	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L6d2f800ae7f04a77815a6dacb546cb54/teientry">ዘ</a>
+673	GeTa_TEA_LT_ALS	number	Singular
+673	GeTa_TEA_LT_ALS	lex	ዘ
+673	GeTa_TEA	NT	Relative Pronoun
+673	GeTa_TEA_LT_ALS	gender	Masculine
+673	GeTa_TEA	TOKL	za
+673	GeTa_TEA	ne	false
+674	GeTa_TEA_LT_ALS	lex	ተወልደ
+674	GeTa_TEA_LT_ALS	tam	Imperfect
+674	GeTa_TEA_LT_ALS	number	Singular
+674	GeTa_TEA	TOKL	yǝtwallad
+674	GeTa_TEA	NT	Verb
+674	GeTa_TEA_LT_ALS	gender	Masculine
+674	GeTa_TEA	ne	false
+674	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lfd174bdfda4c41c6be85874464da1f35/teientry">ተወልደ</a>
+674	GeTa_TEA_LT_ALS	person	Third
+675	GeTa_TEA	TOKL	ʾǝm
+675	GeTa_TEA	NT	Preposition
+675	GeTa_TEA	ne	false
+675	GeTa_TEA_LT_ALS	state	Nominal state
+675	GeTa_TEA_LT_ALS	lex	እምነ
+675	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5dded822e50849de809787567415f4a9/teientry">እምነ</a>
+676	GeTa_TEA_LT_ALS	lex	አንስት
+676	GeTa_TEA_LT_ALS	number-pattern	Singular
+676	GeTa_TEA_LT_ALS	case	Nominative
+676	GeTa_TEA	TOKL	ʾanǝst
+676	GeTa_TEA_LT_ALS	gender-nature	Feminine
+676	GeTa_TEA_LT_ALS	state	Absolute state
+676	GeTa_TEA	ne	false
+676	GeTa_TEA	NT	Common Noun
+676	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lddefa9ad560c4b73b92b0896a67a461a/teientry">አንስት</a>
+677	GeTa_TEA_LT_ALS	gender	Masculine
+677	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L6d2f800ae7f04a77815a6dacb546cb54/teientry">ዘ</a>
+677	GeTa_TEA_LT_ALS	number	Singular
+677	GeTa_TEA	NT	Relative Pronoun
+677	GeTa_TEA_LT_ALS	lex	ዘ
+677	GeTa_TEA	TOKL	za
+677	GeTa_TEA	ne	false
+678	GeTa_TEA_LT_ALS	number-pattern	Singular
+678	GeTa_TEA	TOKL	ḥǝdāṭ
+678	GeTa_TEA_LT_ALS	number-syntax	Plural
+678	GeTa_TEA	ne	false
+678	GeTa_TEA_LT_ALS	lex	ኅዳጥ
+678	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Ld0e6ba62a6fe42cab38b2c74dd9bf533/teientry">ኅዳጥ</a>
+678	GeTa_TEA_LT_ALS	gender	Unmarked
+678	GeTa_TEA_LT_ALS	case	Nominative
+678	GeTa_TEA_LT_ALS	state	Absolute state
+678	GeTa_TEA	NT	Common Noun
+679	GeTa_TEA_LT_ALS	gender	Unmarked
+679	GeTa_TEA_LT_ALS	number-pattern	Plural Intern
+679	GeTa_TEA	ne	false
+679	GeTa_TEA_LT_ALS	state	Pronominal state
+679	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Ld6b825418be3449294c090c4c475a0cc/teientry">ሞዐልት</a>
+679	GeTa_TEA	TOKL	mawāʿǝli
+679	GeTa_TEA	NT	Common Noun
+679	GeTa_TEA_LT_ALS	case	Nominative
+679	GeTa_TEA_LT_ALS	lex	ሞዐልት
+680	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lf53c640a22434497bb07041c9b705f5f/teientry">ሁ</a>
+680	GeTa_TEA_LT_ALS	person	Third
+680	GeTa_TEA	TOKL	hu
+680	GeTa_TEA	NT	Pronominal Suffix
+680	GeTa_TEA_LT_ALS	gender	Masculine
+680	GeTa_TEA	ne	false
+680	GeTa_TEA_LT_ALS	number	Singular
+680	GeTa_TEA_LT_ALS	lex	ሁ
+681	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L79528bf91b00402f9cb3505bd6ea3010/teientry">በ</a>
+681	GeTa_TEA_LT_ALS	state	Nominal state
+681	GeTa_TEA	TOKL	ba
+681	GeTa_TEA_LT_ALS	lex	በ
+681	GeTa_TEA	NT	Preposition
+681	GeTa_TEA	ne	false
+682	GeTa_TEA	ne	false
+682	GeTa_TEA	TOKL	kama
+682	GeTa_TEA_LT_ALS	state	Nominal state
+682	GeTa_TEA	NT	Conjunction
+682	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L22c2e71ac6c0443e8f05d480b3ac9e85/teientry">ከመ</a>
+682	GeTa_TEA_LT_ALS	lex	ከመ
+683	GeTa_TEA	ne	false
+683	GeTa_TEA_LT_ALS	lex	ጽሑፍ
+683	GeTa_TEA	NT	Common Noun
+683	GeTa_TEA	TOKL	ṣǝḥuf
+683	GeTa_TEA_LT_ALS	state	Absolute state
+683	GeTa_TEA_LT_ALS	gender-pattern	Masculine
+683	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L4c32bce9da5443f79b2f6c674246838d/teientry">ጽሑፍ</a>
+683	GeTa_TEA_LT_ALS	number-pattern	Singular
+683	GeTa_TEA_LT_ALS	case	Nominative
+684	GeTa_TEA	ne	false
+684	GeTa_TEA_LT_ALS	lex	ውስተ
+684	GeTa_TEA	NT	Preposition
+684	GeTa_TEA	TOKL	wǝsta
+684	GeTa_TEA_LT_ALS	state	Nominal state
+684	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L0085d4db9ff047f19e2506f048330c4e/teientry">ውስተ</a>
+685	GeTa_TEA_LT_ALS	number-pattern	Singular
+685	GeTa_TEA_LT_ALS	case	Nominative
+685	GeTa_TEA	ne	false
+685	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L36543c25ea2d43fbabf6c5612f167817/teientry">ወንጌል</a>
+685	GeTa_TEA	NT	Common Noun
+685	GeTa_TEA	NEId	Nccd48f6a-05c1-4bca-999d-8737392f2352
+685	GeTa_TEA_LT_ALS	gender	Unmarked
+685	GeTa_TEA_LT_ALS	state	Absolute state
+685	GeTa_TEA_LT_ALS	lex	ወንጌል
+685	GeTa_TEA	TOKL	wangel
+686	GeTa_TEA_LT_ALS	gender	Masculine
+686	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L6d2f800ae7f04a77815a6dacb546cb54/teientry">ዘ</a>
+686	GeTa_TEA	TOKL	za
+686	GeTa_TEA_LT_ALS	lex	ዘ
+686	GeTa_TEA_LT_ALS	number	Singular
+686	GeTa_TEA	NT	Relative Pronoun
+686	GeTa_TEA	ne	false
+687	GeTa_TEA_LT_ALS	tam	Perfect
+687	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L390318c4b04b4178ad302cba9873d9f1/teientry">በልዐ</a>
+687	GeTa_TEA_LT_ALS	person	Third
+687	GeTa_TEA	TOKL	balaʿa
+687	GeTa_TEA	NT	Verb
+687	GeTa_TEA_LT_ALS	gender	Masculine
+687	GeTa_TEA_LT_ALS	number	Singular
+687	GeTa_TEA	ne	false
+687	GeTa_TEA_LT_ALS	lex	በልዐ
+688	GeTa_TEA	NT	Common Noun
+688	GeTa_TEA_LT_ALS	number-pattern	Singular
+688	GeTa_TEA	ne	false
+688	GeTa_TEA_LT_ALS	state	Pronominal state
+688	GeTa_TEA_LT_ALS	lex	ሥጋ
+688	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Le4e504aba0f2436092c4e1c43135b235/teientry">ሥጋ</a>
+688	GeTa_TEA_LT_ALS	gender	Unmarked
+688	GeTa_TEA	TOKL	śǝgā
+688	GeTa_TEA_LT_ALS	case	Accusative
+689	GeTa_TEA	ne	false
+689	GeTa_TEA_LT_ALS	lex	የ
+689	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L1fb472aff5374b58afa42b115a2434fe/teientry">የ</a>
+689	GeTa_TEA_LT_ALS	number	Singular
+689	GeTa_TEA	NT	Pronominal Suffix
+689	GeTa_TEA_LT_ALS	gender	Communis
+689	GeTa_TEA_LT_ALS	person	First
+689	GeTa_TEA	TOKL	ya
+690	GeTa_TEA	TOKL	wa
+690	GeTa_TEA	NT	Conjunction
+690	GeTa_TEA	ne	false
+690	GeTa_TEA_LT_ALS	lex	ወ
+690	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5be3816e2da14855b9e11b601d83bb79/teientry">ወ</a>
+691	GeTa_TEA_LT_ALS	person	Third
+691	GeTa_TEA	ne	false
+691	GeTa_TEA_LT_ALS	lex	ሰትየ
+691	GeTa_TEA	TOKL	satiya
+691	GeTa_TEA_LT_ALS	number	Singular
+691	GeTa_TEA_LT_ALS	gender	Masculine
+691	GeTa_TEA	NT	Verb
+691	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L41b8a8ce46ee4ec8bd1a9666d4929c9b/teientry">ሰትየ</a>
+691	GeTa_TEA_LT_ALS	tam	Perfect
+692	GeTa_TEA_LT_ALS	case	Accusative
+692	GeTa_TEA_LT_ALS	lex	ደም
+692	GeTa_TEA_LT_ALS	number-pattern	Singular
+692	GeTa_TEA	TOKL	damǝ
+692	GeTa_TEA	ne	false
+692	GeTa_TEA_LT_ALS	state	Pronominal state
+692	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L84b1d99949574941bc8b95cbff6e4fd8/teientry">ደም</a>
+692	GeTa_TEA_LT_ALS	gender	Unmarked
+692	GeTa_TEA	NT	Common Noun
+693	GeTa_TEA_LT_ALS	person	First
+693	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L1fb472aff5374b58afa42b115a2434fe/teientry">የ</a>
+693	GeTa_TEA	NT	Pronominal Suffix
+693	GeTa_TEA_LT_ALS	lex	የ
+693	GeTa_TEA	ne	false
+693	GeTa_TEA_LT_ALS	gender	Communis
+693	GeTa_TEA_LT_ALS	number	Singular
+693	GeTa_TEA	TOKL	ya
+694	GeTa_TEA	NT	Negative Particle
+694	GeTa_TEA	TOKL	ʾi
+694	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L7f707c9d7e2e40b19bfd009029127b49/teientry">ኢ</a>
+694	GeTa_TEA_LT_ALS	lex	ኢ
+694	GeTa_TEA	ne	false
+695	GeTa_TEA	ne	false
+695	GeTa_TEA	TOKL	yǝṭǝʿǝm
+695	GeTa_TEA_LT_ALS	person	Third
+695	GeTa_TEA_LT_ALS	gender	Masculine
+695	GeTa_TEA_LT_ALS	number	Singular
+695	GeTa_TEA_LT_ALS	lex	ጥዕመ
+695	GeTa_TEA	NT	Verb
+695	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L0c37988ba0be40bda952556271b055fb/teientry">ጥዕመ</a>
+695	GeTa_TEA_LT_ALS	tam	Imperfect
+696	GeTa_TEA_LT_ALS	number	Singular
+696	GeTa_TEA_LT_ALS	lex	ሃ
+696	GeTa_TEA	ne	false
+696	GeTa_TEA	NT	Pronominal Suffix
+696	GeTa_TEA	TOKL	ā
+696	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/La583acd98e76428ca4b9d5b61b15eb49/teientry">ሃ</a>
+696	GeTa_TEA_LT_ALS	person	Third
+696	GeTa_TEA_LT_ALS	gender	Feminine
+697	GeTa_TEA	ne	false
+697	GeTa_TEA_LT_ALS	lex	ለ
+697	GeTa_TEA	NT	Preposition
+697	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Le4d650c370464996939e7bfb43dd6444/teientry">ለ</a>
+697	GeTa_TEA	TOKL	la
+697	GeTa_TEA_LT_ALS	state	Nominal state
+698	GeTa_TEA	ne	false
+698	GeTa_TEA_LT_ALS	number-syntax	Singular
+698	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L935f2aafbbc543b6b7bf8c703dd73a79/teientry">ሞት</a>
+698	GeTa_TEA_LT_ALS	number-pattern	Singular
+698	GeTa_TEA	NT	Common Noun
+698	GeTa_TEA	TOKL	mot
+698	GeTa_TEA_LT_ALS	case	Nominative
+698	GeTa_TEA_LT_ALS	lex	ሞት
+698	GeTa_TEA_LT_ALS	state	Absolute state
+699	GeTa_TEA	ne	false
+699	GeTa_TEA_LT_ALS	lex	ወ
+699	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5be3816e2da14855b9e11b601d83bb79/teientry">ወ</a>
+699	GeTa_TEA	NT	Conjunction
+699	GeTa_TEA	TOKL	wa
+700	GeTa_TEA	ne	false
+700	GeTa_TEA_LT_ALS	lex	አነ
+700	GeTa_TEA	TOKL	ʾana
+700	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lbfdbfa995c324de4afde38fde09c21d0/teientry">አነ</a>
+700	GeTa_TEA_LT_ALS	gender	Communis
+700	GeTa_TEA	NT	Independent Personal Pronoun
+700	GeTa_TEA_LT_ALS	number	Singular
+700	GeTa_TEA_LT_ALS	person	First
+700	GeTa_TEA_LT_ALS	case	Nominative
+701	GeTa_TEA_LT_ALS	tam	Imperfect
+701	GeTa_TEA_LT_ALS	gender	Communis
+701	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L41b690c5f3f84b48a2eabd9939f88795/teientry">አንሥአ</a>
+701	GeTa_TEA_LT_ALS	lex	አንሥአ
+701	GeTa_TEA	NT	Verb
+701	GeTa_TEA	TOKL	ʾanaśśǝʾ
+701	GeTa_TEA_LT_ALS	number	Singular
+701	GeTa_TEA	ne	false
+701	GeTa_TEA_LT_ALS	person	First
+702	GeTa_TEA_LT_ALS	gender	Masculine
+702	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lf53c640a22434497bb07041c9b705f5f/teientry">ሁ</a>
+702	GeTa_TEA	TOKL	a
+702	GeTa_TEA	NT	Pronominal Suffix
+702	GeTa_TEA_LT_ALS	person	Third
+702	GeTa_TEA	ne	false
+702	GeTa_TEA_LT_ALS	lex	ሁ
+702	GeTa_TEA_LT_ALS	number	Singular
+703	GeTa_TEA	NT	Preposition
+703	GeTa_TEA	TOKL	ʾama
+703	GeTa_TEA_LT_ALS	state	Nominal state
+703	GeTa_TEA	ne	false
+703	GeTa_TEA_LT_ALS	lex	አመ
+703	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L7d5037bf8b4a42ebb24a587b03e99c9d/teientry">አመ</a>
+704	GeTa_TEA_LT_ALS	lex	ደኃሪ
+704	GeTa_TEA_LT_ALS	number-syntax	Singular
+704	GeTa_TEA_LT_ALS	case	Nominative
+704	GeTa_TEA	TOKL	daḫāri
+704	GeTa_TEA	ne	false
+704	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L2b4b47634c0a496799622818865d940f/teientry">ደኃሪ</a>
+704	GeTa_TEA_LT_ALS	gender-pattern	Masculine
+704	GeTa_TEA_LT_ALS	state	Absolute state
+704	GeTa_TEA	NT	Common Noun
+704	GeTa_TEA_LT_ALS	number-pattern	Singular
+705	GeTa_TEA_LT_ALS	state	Absolute state
+705	GeTa_TEA	NT	Common Noun
+705	GeTa_TEA_LT_ALS	lex	ዕለት
+705	GeTa_TEA	ne	false
+705	GeTa_TEA_LT_ALS	case	Nominative
+705	GeTa_TEA	TOKL	ʿǝlat
+705	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L9a14aa1298674380b36629792eda9a99/teientry">ዕለት</a>
+705	GeTa_TEA_LT_ALS	number-syntax	Singular
+705	GeTa_TEA_LT_ALS	number-pattern	Singular
+706	GeTa_TEA_LT_ALS	lex	በ
+706	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L79528bf91b00402f9cb3505bd6ea3010/teientry">በ</a>
+706	GeTa_TEA	ne	false
+706	GeTa_TEA_LT_ALS	state	Nominal state
+706	GeTa_TEA	NT	Preposition
+706	GeTa_TEA	TOKL	ba
+707	GeTa_TEA	TOKL	kama
+708	GeTa_TEA_LT_ALS	lex	ከመ
+708	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L22c2e71ac6c0443e8f05d480b3ac9e85/teientry">ከመ</a>
+708	GeTa_TEA	TOKL	kama
+708	GeTa_TEA	NT	Conjunction
+708	GeTa_TEA	ne	false
+709	GeTa_TEA_LT_ALS	lex	ጽሑፍ
+709	GeTa_TEA	TOKL	ṣǝḥǝf
+709	GeTa_TEA_LT_ALS	gender-pattern	Masculine
+709	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L4c32bce9da5443f79b2f6c674246838d/teientry">ጽሑፍ</a>
+709	GeTa_TEA	NT	Common Noun
+709	GeTa_TEA_LT_ALS	number-pattern	Singular
+709	GeTa_TEA_LT_ALS	state	Absolute state
+709	GeTa_TEA	ne	false
+709	GeTa_TEA_LT_ALS	case	Nominative
+710	GeTa_TEA	TOKL	wǝsta
+710	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L0085d4db9ff047f19e2506f048330c4e/teientry">ውስተ</a>
+710	GeTa_TEA_LT_ALS	state	Nominal state
+710	GeTa_TEA	NT	Preposition
+710	GeTa_TEA	ne	false
+710	GeTa_TEA_LT_ALS	lex	ውስተ
+711	GeTa_TEA_LT_ALS	state	Absolute state
+711	GeTa_TEA_LT_ALS	lex	ነቢይ
+711	GeTa_TEA	NEId	N2dd29175-e0dc-407a-9525-7c9c5100d7d6
+711	GeTa_TEA_LT_ALS	gender-pattern	Masculine
+711	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L548a30aacee140998d3688b3fe513bdb/teientry">ነቢይ</a>
+711	GeTa_TEA_LT_ALS	number-pattern	Singular
+711	GeTa_TEA	NT	Common Noun
+711	GeTa_TEA_LT_ALS	case	Nominative
+711	GeTa_TEA	TOKL	nabǝy
+711	GeTa_TEA	ne	false
+712	GeTa_TEA_LT_ALS	number-pattern	Plural Extern
+712	GeTa_TEA	ne	false
+712	GeTa_TEA_LT_ALS	state	Absolute state
+712	GeTa_TEA_LT_ALS	gender-pattern	Masculine
+712	GeTa_TEA_LT_ALS	case	Nominative
+712	GeTa_TEA	NT	Common Noun
+712	GeTa_TEA_LT_ALS	lex	ምዉት
+712	GeTa_TEA_LT_ALS	gender-syntax	Masculine
+712	GeTa_TEA	TOKL	mǝwtān
+712	GeTa_TEA_LT_ALS	number-syntax	Plural
+712	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lc6045b17046a4b189a7ab2285b583187/teientry">ምዉት</a>
+713	GeTa_TEA_LT_ALS	tam	Imperfect
+713	GeTa_TEA_LT_ALS	gender	Masculine
+713	GeTa_TEA	ne	false
+713	GeTa_TEA_LT_ALS	person	Third
+713	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L16e03588a0ef457c91ec30ffbc32e418/teientry">ተንሥአ</a>
+713	GeTa_TEA	TOKL	yǝtnaśśǝʾu
+713	GeTa_TEA_LT_ALS	number	Plural
+713	GeTa_TEA_LT_ALS	lex	ተንሥአ
+713	GeTa_TEA	NT	Verb
+714	GeTa_TEA	NT	Conjunction
+714	GeTa_TEA	TOKL	wa
+714	GeTa_TEA_LT_ALS	lex	ወ
+714	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5be3816e2da14855b9e11b601d83bb79/teientry">ወ</a>
+714	GeTa_TEA	ne	false
+715	GeTa_TEA_LT_ALS	person	Third
+715	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/Lb18678e7241042c686e9929a40ea7589/teientry">ሐይወ</a>
+715	GeTa_TEA_LT_ALS	number	Plural
+715	GeTa_TEA_LT_ALS	gender	Masculine
+715	GeTa_TEA_LT_ALS	lex	ሐይወ
+715	GeTa_TEA_LT_ALS	tam	Imperfect
+715	GeTa_TEA	TOKL	yaḥayyǝwu
+715	GeTa_TEA	ne	false
+715	GeTa_TEA	NT	Verb
+716	GeTa_TEA_LT_ALS	number	Plural
+716	GeTa_TEA	ne	false
+716	GeTa_TEA_LT_ALS	lex	ዘ
+716	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L6d2f800ae7f04a77815a6dacb546cb54/teientry">ዘ</a>
+716	GeTa_TEA	TOKL	ʾǝlla
+716	GeTa_TEA	NT	Relative Pronoun
+716	GeTa_TEA_LT_ALS	gender	Communis
+717	GeTa_TEA_LT_ALS	lex	ውስተ
+717	GeTa_TEA_LT_ALS	state	Nominal state
+717	GeTa_TEA	NT	Preposition
+717	GeTa_TEA	ne	false
+717	GeTa_TEA	TOKL	wǝsta
+717	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L0085d4db9ff047f19e2506f048330c4e/teientry">ውስተ</a>
+718	GeTa_TEA_LT_ALS	case	Nominative
+718	GeTa_TEA_LT_ALS	state	Absolute state
+718	GeTa_TEA_LT_ALS	lex	መቅበርት
+718	GeTa_TEA_LT_ALS	lexh	<a href="http://betamasaheft.eu/api/Dillmann/L5143f5ad46e5490e98271156c1e7fd1c/teientry">መቅበርት</a>
+718	GeTa_TEA	NT	Common Noun
+718	GeTa_TEA_LT_ALS	gender	Unmarked
+718	GeTa_TEA_LT_ALS	number-pattern	Plural Intern
+718	GeTa_TEA	TOKL	maqābǝr
+718	GeTa_TEA	ne	false
+719	GeTa_NEA	R	<a href="https://betamasaheft.eu/api/PRS11407Giho/tei">https://betamasaheft.eu/api/PRS11407Giho/tei</a>
+719	GeTa_NEA	T	person
+720	GeTa_NEA	T	work
+720	GeTa_NEA	R	<a href="https://betamasaheft.eu/api/LIT1560Gospel/tei">https://betamasaheft.eu/api/LIT1560Gospel/tei</a>
+721	GeTa_NEA	R	<a href="https://betamasaheft.eu/api/LIT2194Prophe/tei">https://betamasaheft.eu/api/LIT2194Prophe/tei</a>
+721	GeTa_NEA	T	work

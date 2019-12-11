@@ -64,6 +64,7 @@ def geta2tei(dirname):
             fnameFull = os.path.abspath(os.path.join(root, fname))
             print('Opening ' + fnameFull + ' in GeTa (' + str(durOpen) + ' seconds)...')
             proc = launch_geta()
+            time.sleep(0.5)
             pyautogui.hotkey('ctrl', 'a')
             time.sleep(0.5)
             pyautogui.write(fnameFull)
@@ -222,9 +223,9 @@ def relocate_geta(dirname):
 
 
 if __name__ == '__main__':
-    create_new_dir()
-    unzip_all('Annotations_processed')
-    clean_dir('Annotations_processed')
-    geta2tei('Annotations_processed')
+    # create_new_dir()
+    # unzip_all('Annotations_processed')
+    # clean_dir('Annotations_processed')
+    # geta2tei('Annotations_processed')
     geta2annis('Annotations_processed')
     relocate_geta('Annotations_processed')
