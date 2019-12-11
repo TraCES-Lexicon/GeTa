@@ -1,0 +1,6 @@
+**.pyc
+**.idea/**
+output/**
+pepper/**
+workspace/**
+GeTa/Tool/Error.log

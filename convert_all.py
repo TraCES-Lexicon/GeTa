@@ -43,10 +43,13 @@ def unzip_all(dirname):
 
 def geta2tei(dirname):
     """
-    Open all GeTa files and transform them into TEI XML.
+    Open all GeTa files, export them to TEI XML and to the
+    intermediary format required by Pepper Grinder.
     """
     textDirs = []
     for root, dirs, files in os.walk(dirname):
+        if root.startswith('Export'):
+            continue
         for fname in files:
             if not fname.lower().endswith('.json'):
                 continue
@@ -58,10 +61,26 @@ def geta2tei(dirname):
             pyautogui.write(fnameFull)
             pyautogui.press('enter')
             time.sleep(70)  # GeTa is not exactly a fast application
+            print('Exporting ' + fnameFull + ' for Pepper Grinder...')
+            pyautogui.hotkey('alt', 'f')
+            time.sleep(0.2)
+            pyautogui.hotkey('alt', 'e')
+            time.sleep(0.2)
+            pyautogui.press('enter')
+            time.sleep(10)
+            for exportDir in os.listdir(root):
+                if exportDir.startswith('Export') and os.path.isdir(os.path.join(root, exportDir)):
+                    os.rename(os.path.isdir(os.path.join(root, exportDir)),
+                              os.path.isdir(os.path.join(root, 'Export')))
+                    break
+            print('Done.')
             print('Saving ' + fnameFull + ' in TEI XML...')
             pyautogui.hotkey('alt', 'f')
+            time.sleep(0.2)
             pyautogui.hotkey('alt', 'e')
+            time.sleep(0.2)
             pyautogui.hotkey('alt', 't')
+            time.sleep(0.2)
             pyautogui.press('enter')
             time.sleep(10)
             print('Done.')
@@ -72,12 +91,27 @@ def geta2tei(dirname):
         print(textDir)
 
 
+def relocate_annis(dirName):
+    """
+    Move exported ANNIS files from the Pepper Grinder's output folder
+    to the folder where they should be.
+    """
+    textName = os.listdir('output')[0]
+    annisName = os.listdir(os.path.join('output', textName, 'annis'))[0]
+    srcDir = os.path.join('output', textName, 'annis', annisName)
+    targetDir = dirName[:-6] + 'annis'
+    shutil.copytree(srcDir, targetDir)
+    shutil.rmtree(os.path.join('output', textName))
+
+
 def geta2annis(dirname):
     """
-    Open all GeTa files in Pepper Grinder and transform them into ANNIS format.
+    Open all intermediary GeTa files in Pepper Grinder and transform them into ANNIS format.
     """
     textDirs = []
     for root, dirs, files in os.walk(dirname):
+        if not root.endswith('Export'):
+            continue
         noJson = True
         for fname in files:
             if not fname.lower().endswith('.json'):
@@ -90,22 +124,22 @@ def geta2annis(dirname):
         print('Opening ' + dirnameFull + ' in Pepper Grinder...')
         proc = launch_pepper()
         pyautogui.click(40, 131)
-        time.sleep(1)
+        time.sleep(0.5)
         pyautogui.click(40, 131)
         for i in range(3):
             pyautogui.press('tab')
             time.sleep(0.2)
-        time.sleep(2)
         pyautogui.write(dirnameFull)
-        time.sleep(2)
+        time.sleep(0.5)
         okLocation = pyautogui.locateOnScreen('img/ok_pepper.png')
         okX, okY = pyautogui.center(okLocation)
         pyautogui.click(okX, okY)
-        time.sleep(1)
+        time.sleep(0.5)
         pyautogui.click(40, 162)
-        time.sleep(20)
+        time.sleep(30)
         print('Done.')
         proc.terminate()
+        relocate_annis(root)
         textDirs.append(os.path.abspath(root))
     print('GeTa > ANNIS conversion finished. Here are the text folders:')
     for textDir in textDirs:
