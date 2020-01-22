@@ -31,6 +31,16 @@ def launch_pepper():
     return proc
 
 
+def launch_annis_joiner():
+    si = subprocess.STARTUPINFO()
+    # si.dwFlags = subprocess.STARTF_USESHOWWINDOW
+    # si.wShowWindow = 3  # SW_MAXIMIZE
+    proc = subprocess.Popen('perl catRelAnnis.pl -d annis_single_corpus -c TraCES -r',
+                            startupinfo=si)
+    time.sleep(2)
+    return proc
+
+
 def unzip_all(dirname):
     """
     Walk over the folder and its subfolders and unzip all zip archives.
@@ -222,10 +232,62 @@ def relocate_geta(dirname):
                         os.path.join(root, 'GeTa', fname))
 
 
+def join_annis(dirname):
+    """
+    Move annis corpora to a single directory and join them into one
+    big corpus with the help of a perl script.
+    """
+    outDirName = 'annis_single_corpus'
+    if os.path.exists(outDirName):
+        shutil.rmtree(outDirName)
+        time.sleep(0.5)
+    os.makedirs(outDirName)
+    extDataCopied = False
+    annisVersionCopied = False
+    for root, dirs, files in os.walk(dirname):
+        if re.search('[/\\\\]annis[/\\\\]?$', root) is None:
+            continue
+        if not extDataCopied:
+            extDataPath = os.path.join(root, 'ExtData')
+            if os.path.exists(extDataPath):
+                shutil.copytree(extDataPath, os.path.join(outDirName, 'ExtData'))
+                extDataCopied = True
+        if not annisVersionCopied:
+            annisVersionPath = os.path.join(root, 'annis.version')
+            if os.path.exists(annisVersionPath):
+                shutil.copy(annisVersionPath, os.path.join(outDirName, 'annis.version'))
+                annisVersionCopied = True
+        corpusName = re.sub('.*[/\\\\]([^/\\\\]+?)(?:_?Version[^/\\\\]*)?[/\\\\]annis[/\\\\]?$', '\\1', root)
+        targetDir = os.path.join(outDirName, corpusName)
+        if not os.path.exists(targetDir):
+            os.makedirs(targetDir)
+        for fname in files:
+            if fname.lower().endswith(('.zip', '.7z', '.version')):
+                continue
+            shutil.copy(os.path.join(root, fname), os.path.join(targetDir, fname))
+    proc = launch_annis_joiner()
+    proc.wait()
+    for fname in ['corpus_annotation.annis',
+                  'rank.annis',
+                  'component.annis',
+                  'edge_annotation.annis',
+                  'corpus.annis',
+                  'node_annotation.annis',
+                  'text.annis',
+                  'node.annis']:
+        shutil.move(fname, os.path.join(outDirName, fname))
+    for dirname in os.listdir(outDirName):
+        if os.path.isdir(os.path.join(outDirName, dirname)) and dirname != 'ExtData':
+            shutil.rmtree(os.path.join(outDirName, dirname))
+            time.sleep(0.5)
+    print('ANNIS corpora joined.')
+
+
 if __name__ == '__main__':
     # create_new_dir()
     # unzip_all('Annotations_processed')
     # clean_dir('Annotations_processed')
     # geta2tei('Annotations_processed')
-    geta2annis('Annotations_processed')
-    relocate_geta('Annotations_processed')
+    # geta2annis('Annotations_processed')
+    # relocate_geta('Annotations_processed')
+    join_annis('Annotations_processed')
